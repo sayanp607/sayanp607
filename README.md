@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sayan Paul</h1>
-<h3 align="center">A passionate frontend developer from India with an experience of more than 2 years.</h3>
+<h3 align="center">A passionate Mern Stack developer from India with an experience of more than 2 years.</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/016/746/979/original/freelancer-software-developer-programmer-coder-illustrator-vector.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanp607&label=Profile%20views&color=0e75b6&style=flat" alt="sayanp607" /> </p>
 
-- 🌱 I’m currently learning **React Js, Express Js,Mongo DB.**
+- 🌱 I’m currently learning **Machine learning, java, socket.io**
 
-- 💬 Ask me about **React,Html,Css,Js,Express.**
+- 💬 Ask me about **React,Html,Css,Js,Express,MongoDb,Node.**
 
 - 📫 How to reach me **sayanp607@gmail.com**
 
