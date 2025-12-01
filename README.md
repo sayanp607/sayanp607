@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Sayan%20Paul&fontSize=42&fontAlignY=30&desc=MERN%20Stack%20Developer%20|%202+%20Years%20Experience&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Sayan%20Paul&fontSize=42&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20SDE%20Intern%20@%20Souloxy&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3CDBF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Building+Amazing+Web+Apps+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3CDBF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Scalable+Web+Apps+%E2%9C%A8;AI+%26+ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/016/746/979/original/freelancer-software-developer-programmer-coder-illustrator-vector.jpg">
@@ -14,19 +14,32 @@
 
 ```javascript
 const sayan = {
-  location: "India 🇮🇳",
-  role: "MERN Stack Developer",
-  experience: "2+ years",
-  currentFocus: ["Machine Learning", "Java", "Socket.io"],
-  code: ["JavaScript", "React", "Node.js", "MongoDB"],
-  askMeAbout: ["Web Dev", "Tech", "MERN Stack"],
+  location: "Kolkata, India 🇮🇳",
+  education: "B.E. @ Jadavpur University",
+  role: "SDE Intern @ Souloxy",
+  experience: "Building production-ready full stack applications",
+  currentFocus: ["Machine Learning", "AI Integration", "WebSockets"],
+  code: ["JavaScript", "Java", "C++"],
   technologies: {
-    frontEnd: ["React", "Redux", "HTML5", "CSS3", "TailwindCSS", "Bootstrap"],
-    backEnd: ["Node.js", "Express.js"],
-    databases: ["MongoDB"],
-    tools: ["Git", "Postman", "Figma", "Photoshop", "Illustrator"],
+    frontEnd: {
+      frameworks: ["React.js", "Next.js", "Vue.js"],
+      styling: ["TailwindCSS", "Bootstrap", "Material UI", "ShadCN UI"],
+      stateManagement: ["Redux"],
+      markup: ["HTML5", "CSS3"]
+    },
+    backEnd: {
+      runtime: ["Node.js"],
+      frameworks: ["Express.js"],
+      apis: ["REST API", "OpenAI API", "Razorpay", "Map APIs"],
+      realtime: ["Socket.io"]
+    },
+    databases: ["MongoDB", "PostgreSQL", "Firebase"],
+    auth: ["JWT", "OAuth", "Firebase Auth"],
+    tools: ["Git/GitHub", "Postman", "VS Code", "IntelliJ IDEA", "PgAdmin"],
+    deployment: ["Vercel", "Render", "Netlify"],
+    design: ["Figma", "Photoshop", "Illustrator"]
   },
-  funFact: "I debug with console.log() 😄",
+  funFact: "I debug with console.log() 😄"
 };
 ```
 
@@ -37,6 +50,7 @@ const sayan = {
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan%20paul)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-eight-navy-33.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/sayan%20paul)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayanp607@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sayanp607&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/sayanp607)
@@ -57,23 +71,39 @@ const sayan = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 📚 Frameworks & Libraries
+#### 📚 Frontend Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+#### ⚙️ Backend Technologies
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 #### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### 🛠️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -84,17 +114,21 @@ const sayan = {
 
 ### 📊 GitHub Analytics
 
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayanp607&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanp607&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanp607&theme=tokyonight" alt="GitHub Contribution"/>
+</div>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayanp607&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayanp607&theme=tokyonight" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanp607&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="sayanp607" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanp607&custom_title=Sayan's%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area_color=1F6FEB&area=true&hide_border=true" alt="contribution graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayanp607&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayanp607&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 ---
@@ -102,7 +136,7 @@ const sayan = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayanp607&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sayanp607&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 ---
@@ -120,22 +154,6 @@ const sayan = {
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
   </a>
-</div>
-
----
-
-### 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sayanp607/sayanp607/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
