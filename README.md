@@ -17,12 +17,12 @@ const sayan = {
   location: "Kolkata, India 🇮🇳",
   education: "B.E. @ Jadavpur University",
   role: "SDE Intern @ Souloxy",
-  experience: "Building production-ready full stack applications",
+  experience: "Building production-ready full stack web & mobile applications",
   currentFocus: ["Machine Learning", "AI Integration", "WebSockets"],
   code: ["JavaScript", "Java", "C++"],
   technologies: {
     frontEnd: {
-      frameworks: ["React.js", "Next.js", "Vue.js"],
+      frameworks: ["React.js", "Next.js", "Vue.js", "React-Native"],
       styling: ["TailwindCSS", "Bootstrap", "Material UI", "ShadCN UI"],
       stateManagement: ["Redux"],
       markup: ["HTML5", "CSS3"]
@@ -74,6 +74,8 @@ const sayan = {
 #### 📚 Frontend Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
