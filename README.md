@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3CDBF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Scalable+Web+Apps+%E2%9C%A8;AI+%26+ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3CDBF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Android+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Building+Scalable+Web+Apps+%E2%9C%A8;AI+%26+ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/016/746/979/original/freelancer-software-developer-programmer-coder-illustrator-vector.jpg">
@@ -67,9 +67,11 @@ const sayan = {
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 #### 📚 Frontend Frameworks & Libraries
 
