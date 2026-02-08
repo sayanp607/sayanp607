@@ -120,7 +120,11 @@ const sayan = {
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanp607&theme=tokyonight" alt="GitHub Contribution"/>
+  <img src="https://streak-stats.demolab.com?user=sayanp607&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanp607&theme=tokyonight" alt="GitHub Contribution Graph" />
 </div>
 
 ### 📈 GitHub Stats
