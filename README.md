@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:06b6d4&height=220&section=header&text=Sayan%20Paul&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SDE%20Intern%20@%20Souloxy&descSize=18&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=06B6D4&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;Android+%26+React+Native+Developer+%F0%9F%93%B1;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Turning+%E2%98%95+into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=06B6D4&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;Android+%26+React+Native+Developer+%F0%9F%93%B1;AI+%2F+ML+Engineer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Turning+%E2%98%95+into+Code" alt="Typing SVG" />
 
 <br/>
 
@@ -21,10 +21,8 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/assets/demo.gif" alt="coding gif" />
 
-- 🌱 Full stack developer building production-ready web & mobile apps
-- 💼 Currently interning as an **SDE @ Souloxy**
-- 🎓 B.E. @ **Jadavpur University**
-- 🔭 Currently deep-diving into **Machine Learning, AI Integration & WebSockets**
+- 🌐 Full stack developer working across web, mobile (React Native/Expo), and AI-integrated applications
+- 🏆 3rd rank, JWOC 2025 (195 merged PRs) · Rank 96, GSSoC Extended 2024 (7000+ contributors)
 - ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed
 
 <br clear="right"/>
@@ -35,20 +33,81 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,cpp,html,css,react,nextjs,vue,redux,tailwind,bootstrap,materialui,nodejs,express,socketio,mongodb,postgres,firebase,git,postman,vscode,idea,vercel,netlify,figma,photoshop,ai&perline=9" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,redux,tailwind,nodejs,express,socketio,mongodb,postgres,firebase,git,github,postman,vscode,idea,vercel,figma,ai,ps,java,python,flask,androidstudio&perline=10" alt="Skills" />
 
 </div>
 
 <br/>
 
+**Full Stack Development**
+
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square)
+
+</div>
+
+**App Development**
+
+<div align="center">
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![FCM](https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tesseract.js](https://img.shields.io/badge/Tesseract.js_(OCR)-43853D?style=flat-square)
+
+</div>
+
+**AI / ML Engineer**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI Vision](https://img.shields.io/badge/OpenAI_Vision_API-412991?style=flat-square&logo=openai&logoColor=white)
+![ML Recommendations](https://img.shields.io/badge/ML--driven_Recommendations-6d28d9?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+</div>
+
+<br/>
+
+**Tools & Platforms**
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![PgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 
 </div>
 
@@ -58,15 +117,17 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sayanp607&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=6d28d9" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=sayanp607&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=6d28d9" width="600"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanp607&theme=tokyonight" width="90%"/>
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayanp607&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayanp607&theme=tokyonight" width="49%"/>
+<img width="460" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanp607&theme=tokyonight"/>
+<img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayanp607&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayanp607&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayanp607&theme=tokyonight" width="49%"/>
+<img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayanp607&theme=tokyonight"/>
+<img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayanp607&theme=tokyonight"/>
+
+<img width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayanp607&theme=tokyonight"/>
 
 </div>
 
