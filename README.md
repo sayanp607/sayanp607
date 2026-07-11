@@ -58,12 +58,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayanp607&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=6d28d9&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com?user=sayanp607&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=6d28d9" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=sayanp607&theme=tokyonight&hide_border=true&background=0d1117&ring=06B6D4&fire=6d28d9" width="90%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanp607&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&langs_count=10" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayanp607&theme=tokyonight" width="90%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayanp607&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=06B6D4&line=6d28d9&point=ffffff" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayanp607&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayanp607&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayanp607&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayanp607&theme=tokyonight" width="49%"/>
 
 </div>
 
