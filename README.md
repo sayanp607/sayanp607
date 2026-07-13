@@ -21,11 +21,14 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/assets/demo.gif" alt="coding gif" />
 
-- 🌐 Full stack developer working across web, mobile (React Native/Expo), and AI-integrated applications
-- 💼 SDE Intern @ **Souloxy** — built admin-panel features, Razorpay payments, and Firebase auth flows
-- 🚀 Team Lead @ **VendMate** — built an IoT-enabled, OTP-authenticated print workflow platform
-- 🏆 3rd rank, JWOC 2025 (195 merged PRs) · Rank 96, GSSoC Extended 2024 (7000+ contributors)
-- ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed
+<table>
+<tr><td width="40">💼</td><td><b>SDE Intern</b></td><td><b>Souloxy</b></td></tr>
+<tr><td width="40">💻</td><td><b>Full Stack Intern</b></td><td><b>Deep-Duo</b></td></tr>
+<tr><td width="40">🤖</td><td><b>Gen AI Intern</b></td><td><b>Souloxy</b></td></tr>
+<tr><td width="40">⚡</td><td><b>Full Stack + Gen AI Intern</b></td><td><b>Dot Build</b></td></tr>
+<tr><td width="40">🚀</td><td><b>Team Lead</b></td><td><b>VendMate</b></td></tr>
+<tr><td width="40">🏆</td><td><b>Open Source</b></td><td>3rd rank JWOC 2025 · Rank 96 GSSoC 2024</td></tr>
+</table>
 
 <br clear="right"/>
 
