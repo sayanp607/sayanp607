@@ -22,6 +22,8 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/assets/demo.gif" alt="coding gif" />
 
 - 🌐 Full stack developer working across web, mobile (React Native/Expo), and AI-integrated applications
+- 💼 SDE Intern @ **Souloxy** — built admin-panel features, Razorpay payments, and Firebase auth flows
+- 🚀 Team Lead @ **VendMate** — built an IoT-enabled, OTP-authenticated print workflow platform
 - 🏆 3rd rank, JWOC 2025 (195 merged PRs) · Rank 96, GSSoC Extended 2024 (7000+ contributors)
 - ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed
 
@@ -33,81 +35,106 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,redux,tailwind,nodejs,express,socketio,mongodb,postgres,firebase,git,github,postman,vscode,idea,vercel,figma,ai,ps,java,python,flask,androidstudio&perline=10" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vue,redux,tailwind,nodejs,express,socketio,mongodb,postgres,firebase,git,github,postman,vscode,idea,vercel,figma,ai,ps,java,python,flask,androidstudio&perline=10&theme=dark" alt="Skills" />
 
 </div>
 
 <br/>
 
-**Full Stack Development**
-
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square)
+![Full Stack Development](https://img.shields.io/badge/-FULL%20STACK%20DEVELOPMENT-1e1b4b?style=for-the-badge&labelColor=1e1b4b&color=1e1b4b)
 
 </div>
 
-**App Development**
-
 <div align="center">
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![FCM](https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
-![Tesseract.js](https://img.shields.io/badge/Tesseract.js_(OCR)-43853D?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1b4b?style=for-the-badge&logo=javascript&logoColor=818cf8)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1b4b?style=for-the-badge&logo=typescript&logoColor=818cf8)
+![React](https://img.shields.io/badge/React-1e1b4b?style=for-the-badge&logo=react&logoColor=818cf8)
+![Next.js](https://img.shields.io/badge/Next.js-1e1b4b?style=for-the-badge&logo=nextdotjs&logoColor=818cf8)
+![Vue.js](https://img.shields.io/badge/Vue.js-1e1b4b?style=for-the-badge&logo=vuedotjs&logoColor=818cf8)
+![Redux](https://img.shields.io/badge/Redux-1e1b4b?style=for-the-badge&logo=redux&logoColor=818cf8)
+![Zustand](https://img.shields.io/badge/Zustand-1e1b4b?style=for-the-badge&logoColor=818cf8)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1e1b4b?style=for-the-badge&logo=tailwind-css&logoColor=818cf8)
+![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-1e1b4b?style=for-the-badge&logoColor=818cf8)
 
 </div>
 
-**AI / ML Engineer**
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![OpenAI Vision](https://img.shields.io/badge/OpenAI_Vision_API-412991?style=flat-square&logo=openai&logoColor=white)
-![ML Recommendations](https://img.shields.io/badge/ML--driven_Recommendations-6d28d9?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1e1b4b?style=for-the-badge&logo=nodedotjs&logoColor=818cf8)
+![Express.js](https://img.shields.io/badge/Express.js-1e1b4b?style=for-the-badge&logo=express&logoColor=818cf8)
+![Socket.io](https://img.shields.io/badge/Socket.io-1e1b4b?style=for-the-badge&logo=socket.io&logoColor=818cf8)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e1b4b?style=for-the-badge&logo=mongodb&logoColor=818cf8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1b4b?style=for-the-badge&logo=postgresql&logoColor=818cf8)
+![Prisma](https://img.shields.io/badge/Prisma-1e1b4b?style=for-the-badge&logo=prisma&logoColor=818cf8)
+![JWT](https://img.shields.io/badge/JWT-1e1b4b?style=for-the-badge&logo=jsonwebtokens&logoColor=818cf8)
+![Razorpay](https://img.shields.io/badge/Razorpay-1e1b4b?style=for-the-badge&logoColor=818cf8)
 
 </div>
 
 <br/>
 
-**Tools & Platforms**
+<div align="center">
+
+![App Development](https://img.shields.io/badge/-APP%20DEVELOPMENT-0c4a6e?style=for-the-badge&labelColor=0c4a6e&color=0c4a6e)
+
+</div>
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![PgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0c4a6e?style=for-the-badge&logo=react&logoColor=38bdf8)
+![Expo](https://img.shields.io/badge/Expo-0c4a6e?style=for-the-badge&logo=expo&logoColor=38bdf8)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0c4a6e?style=for-the-badge&logo=androidstudio&logoColor=38bdf8)
+![Firebase](https://img.shields.io/badge/Firebase-0c4a6e?style=for-the-badge&logo=firebase&logoColor=38bdf8)
+![FCM](https://img.shields.io/badge/FCM-0c4a6e?style=for-the-badge&logo=firebase&logoColor=38bdf8)
+![Socket.io](https://img.shields.io/badge/Socket.io-0c4a6e?style=for-the-badge&logo=socket.io&logoColor=38bdf8)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-0c4a6e?style=for-the-badge&logo=google&logoColor=38bdf8)
+![Tesseract.js](https://img.shields.io/badge/Tesseract.js-0c4a6e?style=for-the-badge&logoColor=38bdf8)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![AI / ML Engineer](https://img.shields.io/badge/-AI%20%2F%20ML%20ENGINEER-4c1d95?style=for-the-badge&labelColor=4c1d95&color=4c1d95)
+
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-4c1d95?style=for-the-badge&logo=python&logoColor=c4b5fd)
+![Flask](https://img.shields.io/badge/Flask-4c1d95?style=for-the-badge&logo=flask&logoColor=c4b5fd)
+![OpenAI GPT-4o](https://img.shields.io/badge/OpenAI_GPT--4o-4c1d95?style=for-the-badge&logo=openai&logoColor=c4b5fd)
+![OpenAI Vision](https://img.shields.io/badge/OpenAI_Vision_API-4c1d95?style=for-the-badge&logo=openai&logoColor=c4b5fd)
+![ML Recommendations](https://img.shields.io/badge/ML--Driven_Recommendations-4c1d95?style=for-the-badge&logoColor=c4b5fd)
+![WebSockets](https://img.shields.io/badge/WebSockets-4c1d95?style=for-the-badge&logo=socket.io&logoColor=c4b5fd)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Tools & Platforms](https://img.shields.io/badge/-TOOLS%20%26%20PLATFORMS-111827?style=for-the-badge&labelColor=111827&color=111827)
+
+</div>
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=9ca3af)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=9ca3af)
+![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=Postman&logoColor=9ca3af)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visual-studio-code&logoColor=9ca3af)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellij-idea&logoColor=9ca3af)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=9ca3af)
+![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=9ca3af)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-111827?style=for-the-badge&logo=postgresql&logoColor=9ca3af)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=9ca3af)
+![Photoshop](https://img.shields.io/badge/Photoshop-111827?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=9ca3af)
+![Illustrator](https://img.shields.io/badge/Illustrator-111827?style=for-the-badge&logo=adobe%20illustrator&logoColor=9ca3af)
 
 </div>
 
