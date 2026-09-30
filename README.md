@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan%20paul)
 [![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-navy-33.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/sayan%20paul)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayanp607@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=sayanp607&label=PROFILE%20VIEWS&color=6d28d9&style=for-the-badge" alt="Profile Views"/>
